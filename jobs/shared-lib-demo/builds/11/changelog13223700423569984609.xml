@@ -1,0 +1,9 @@
+commit c87d504bd642a6160d33665f67f443baffb2906a
+tree 21ef60331eac59a4c84143a2a002f74bc70fc79c
+parent 68b64f5a5b9fec93360d77d2f3bd325c65fc04d3
+author KiranItagi666 <159121887+KiranItagi666@users.noreply.github.com> 2024-08-21 15:36:43 +0530
+committer GitHub <noreply@github.com> 2024-08-21 15:36:43 +0530
+
+    Update pkgwithskiptst.groovy
+
+:100644 100644 847111e2c7ee8a62fc1a3f36907ae189a8051fd7 62d92db0ce4d86c0728a890fde9874adc8629a1c M	vars/pkgwithskiptst.groovy
